@@ -1,5 +1,5 @@
-from project.hotel import Hotel
-from project.room import Room
+from lab.project_Hotel_Rooms_04.hotel import Hotel
+from lab.project_Hotel_Rooms_04.room import Room
 import unittest
 
 
