@@ -1,1 +1,1 @@
-This is my repo of the task from Python OOP instance
+This is my repo of the tasks from Python OOP instance
